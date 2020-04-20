@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Locate64.UI.WinForms
 {
-	public partial class FrmMain : Form
+	public partial class MainWindow : Form
 	{
-		public FrmMain()
+		public MainWindow()
 		{
 			InitializeComponent();
 		}
